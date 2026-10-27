@@ -53,8 +53,8 @@ Three HLA-C*03:04 pairs remain below the MHCflurry 0.5% cutoff: `RSAAVLACL`, `SA
 
 HLA panel: A*02:01, A*03:01, A*24:02, B*40:01, B*49:01, C*03:04 and C\*07:01. Predictors: [NetMHCpan 4.1](https://doi.org/10.1093/nar/gkaa379), [MHCflurry 2.2.1 / model release 2.2.0](https://doi.org/10.1016/j.cels.2020.06.010) and [SignalP 6.0](https://doi.org/10.1038/s41587-021-01156-3). MHCflurry was evaluated with available five-residue precursor flanks and without flanks.
 
-[Full paper: methods, figures and sensitivity analyses](https://github.com/gloglolabs/research/blob/main/studies/2026/chga-ins-leader/chga-ins-leader-variants.pdf)\
-[Code, sequences, 34,762 prediction rows and provenance](https://github.com/gloglolabs/research/tree/main/studies/2026/chga-ins-leader)
+[Full paper: methods, figures and sensitivity analyses](https://github.com/gloglolabs/public-research/blob/main/studies/2026/chga-ins-leader/chga-ins-leader-variants.pdf)\
+[Code, sequences, 34,762 prediction rows and provenance](https://github.com/gloglolabs/public-research/tree/main/studies/2026/chga-ins-leader)
 
 From the repository root, `python3 scripts/verify.py` checks input hashes and reproduces the reported results from cached predictions, without rerunning model inference.
 

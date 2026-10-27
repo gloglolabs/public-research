@@ -4,6 +4,6 @@ title: "GloGlo Research"
 authors:
   - name: "GloGlo Labs"
 type: software
-repository-code: "https://github.com/gloglolabs/research"
-url: "https://github.com/gloglolabs/research"
+repository-code: "https://github.com/gloglolabs/public-research"
+url: "https://github.com/gloglolabs/public-research"
 license: MIT
